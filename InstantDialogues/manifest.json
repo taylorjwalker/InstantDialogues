@@ -1,9 +1,10 @@
 {
   "Name": "InstantDialogues",
   "Author": "Taylor Walker",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Forces dialogues to appear instantly instead of typing out progressively.",
   "UniqueID": "TaylorWalker.InstantDialogues",
   "EntryDll": "InstantDialogues.dll",
-  "UpdateKeys": [ "GitHub:taylorjwalker/InstantDialogues" ]
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["GitHub:taylorjwalker/InstantDialogues"]
 }
